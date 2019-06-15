@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.3.0.249 on 2019-06-15 at 00:28 (CEST)-->
-<keyboard group="126" id="-28443" name="Zypro" maxout="1">
+<!--Last edited by Ukelele version 3.3.0.249 on 2019-06-15 at 16:47 (CEST)-->
+<keyboard group="126" id="-753" name="Zypro" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
         <layout first="18" last="18" mapSet="984" modifiers="f4"/>
@@ -414,7 +414,7 @@
             <key code="41" output="…"/>
             <key code="42" output="«"/>
             <key code="43" output="&#x003C;"/>
-            <key code="44" output="÷"/>
+            <key code="44" output="\"/>
             <key code="45" action="4"/>
             <key code="46" output="µ"/>
             <key code="47" output="&#x003E;"/>
