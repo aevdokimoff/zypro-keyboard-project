@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.3.0.249 on 2019-06-15 at 16:47 (CEST)-->
-<keyboard group="126" id="-753" name="Zypro" maxout="1">
+<!--Last edited by Ukelele version 3.3.0.249 on 2019-06-18 at 09:31 (CEST)-->
+<keyboard group="126" id="-18903" name="Zypro" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
         <layout first="18" last="18" mapSet="984" modifiers="f4"/>
@@ -158,7 +158,7 @@
             <key code="3" output="F"/>
             <key code="4" output="H"/>
             <key code="5" output="G"/>
-            <key code="6" output="Z"/>
+            <key code="6" output="Y"/>
             <key code="7" output="X"/>
             <key code="8" output="C"/>
             <key code="9" output="V"/>
@@ -1019,7 +1019,7 @@
             <when state="4" output="Ü"/>
         </action>
         <action id="12">
-            <when state="none" output="Y"/>
+            <when state="none" output="Z"/>
             <when state="4" output="Ÿ"/>
         </action>
         <action id="13">
