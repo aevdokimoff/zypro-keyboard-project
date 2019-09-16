@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.3.0.249 on 2019-06-18 at 09:31 (CEST)-->
+<!--Last edited by Ukelele version 3.3.0.249 on 2019-09-16 at 11:48 (EEST)-->
 <keyboard group="126" id="-18903" name="Zypro" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -93,7 +93,7 @@
             <key code="47" output="."/>
             <key code="48" output="&#x0009;"/>
             <key code="49" action="5"/>
-            <key code="50" output="&#x0022;"/>
+            <key code="50" output="&#x0027;"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -202,7 +202,7 @@
             <key code="47" output=":"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" action="5"/>
-            <key code="50" output="&#x0027;"/>
+            <key code="50" output="&#x0022;"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -412,7 +412,7 @@
             <key code="39" output="æ"/>
             <key code="40" output="˚"/>
             <key code="41" output="…"/>
-            <key code="42" output="«"/>
+            <key code="42" output="\"/>
             <key code="43" output="&#x003C;"/>
             <key code="44" output="\"/>
             <key code="45" action="4"/>
@@ -521,7 +521,7 @@
             <key code="39" output="Æ"/>
             <key code="40" output=""/>
             <key code="41" output="Ú"/>
-            <key code="42" output="»"/>
+            <key code="42" output="|"/>
             <key code="43" output="¯"/>
             <key code="44" output="¿"/>
             <key code="45" output="˜"/>
