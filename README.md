@@ -10,7 +10,7 @@ That's what Zypro layout looks like:
 ![](README/3.png)
 ![](README/4.png)
 
-Feel free to use this layout and be happy with your german keyboard 👍
+Feel free to use this layout and be happy with your US-German keyboard 👍
 
 Made by Artem Evdokimov, TUM, B.Sc. Informatics  
 [aevdokimoff.github.io](http://aevdokimoff.github.io)
