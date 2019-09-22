@@ -5,3 +5,4 @@ Hi! This is Zypro Keyboard Layout for macOS made with Ukelele App (https://scrip
 This layout is designed specifically for programmers who are used to working with the top row, as well as various characters such as brackets and punctuation marks QWERTY keyboard, but who need to arrange the letters of the German layout QWERTZ.
 
 That's how Zypro layout looks:
+![](README/1.png)
