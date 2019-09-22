@@ -19,6 +19,8 @@ That's what Zypro layout looks like:
 
 To apply changes to a keyboard layout, run `sudo touch /Library/Keyboard\ Layouts/` and restart.
 
+## P.S.
+
 Feel free to use this layout and be happy with your US-German keyboard 👍
 
 Made by Artem Evdokimov, TUM, B.Sc. Informatics  
