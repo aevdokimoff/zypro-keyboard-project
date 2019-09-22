@@ -11,4 +11,6 @@ That's what Zypro layout looks like:
 ![](README/4.png)
 
 Feel free to use this layout and be happy with your german keyboard 👍
+
 Made by Artem Evdokimov, TUM, B.Sc. Informatics
+[aevdokimoff.githib.io](http://aevdokimoff.githib.io)
