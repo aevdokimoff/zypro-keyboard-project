@@ -13,10 +13,11 @@ That's what Zypro layout looks like:
 
 ## Installation
 * Move the keyboard layout to `/Library/Keyboard Layouts/`
-(keyboard layouts in ~/Library/Keyboard Layouts/ can't be selected in password dialogs or on the login window)  
+(keyboard layouts in `~/Library/Keyboard Layouts/` can't be selected in password dialogs or on the login window)  
 * Restart the computer. Logging out and back in is not enough.
 * Enable the new keyboard layout from System Preferences.  
-To apply changes to a keyboard layout, run sudo touch /Library/Keyboard\ Layouts/ and restart.
+
+To apply changes to a keyboard layout, run `sudo touch /Library/Keyboard\ Layouts/` and restart.
 
 Feel free to use this layout and be happy with your US-German keyboard 👍
 
