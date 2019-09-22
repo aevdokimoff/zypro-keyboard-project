@@ -12,7 +12,7 @@ That's what Zypro layout looks like:
 ![](README/4.png)
 
 ## Installation
-* Move the keyboard layout to /Library/Keyboard Layouts/ 
+* Move the keyboard layout to `/Library/Keyboard Layouts/`
 (keyboard layouts in ~/Library/Keyboard Layouts/ can't be selected in password dialogs or on the login window)  
 * Restart the computer. Logging out and back in is not enough.
 * Enable the new keyboard layout from System Preferences.  
