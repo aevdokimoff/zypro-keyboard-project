@@ -17,7 +17,8 @@ That's what Zypro layout looks like:
 * Restart the computer. Logging out and back in is not enough.
 * Enable the new keyboard layout from System Preferences.  
 
-To apply changes to a keyboard layout, run `sudo touch /Library/Keyboard\ Layouts/` and restart.
+To apply changes to a keyboard layout, run `sudo touch /Library/Keyboard\ Layouts/` and restart.  
+See [http://osxnotes.net/keylayout-files-and-ukelele.html](http://osxnotes.net/keylayout-files-and-ukelele.html) for more information
 
 ## P.S.
 
