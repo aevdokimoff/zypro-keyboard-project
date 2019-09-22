@@ -6,3 +6,6 @@ This layout is designed specifically for programmers who are used to working wit
 
 That's how Zypro layout looks:
 ![](README/1.png)
+![](README/2.png)
+![](README/3.png)
+![](README/4.png)
